@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ananyakumarisingh" alt="ananyakumarisingh" /></a> </p>
 
+- 👨‍💻 All of my projects are available at [https://ananyakumarisingh.github.io/](https://ananyakumarisingh.github.io/)
+
 - 💬 Ask me about **JavaScript, Express, Node, HTML, CSS**
 
 - 📫 How to reach me **ananyakumarisingh77@gmail.com**
