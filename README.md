@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananyakumarisingh&label=Profile%20views&color=0e75b6&style=flat" alt="ananyakumarisingh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ananyakumarisingh" alt="ananyakumarisingh" /></a> </p>
+![git](https://user-images.githubusercontent.com/112763650/221631005-391564cd-83e8-4192-8df9-206b39bdddfe.gif)
 
 - 👨‍💻 All of my projects are available at [https://ananyakumarisingh.github.io/](https://ananyakumarisingh.github.io/)
 
