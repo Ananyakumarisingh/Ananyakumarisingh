@@ -8,7 +8,6 @@
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
   
 <div>
-  
 <h2 align="center">💫  About Me </h2>
   <img align="right" alt="Coder Image Gif" width="400" src="https://camo.githubusercontent.com/5a249fff657eb22fb372ea50a8553b59551fd78ea5df602fc08e3ec1e8e95bb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313935313138322f73637265656e73686f74732f343536303832332f383030783630302e676966">
   
@@ -46,7 +45,7 @@
 <h2 align="center">🚀 Languages and Tools: </h2>
  
 <h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Tech Stack..</h4>
- <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pkbgoupmgjv98otfuzjzz3olilr56muin6aigv8q&rid=giphy.gif&ct=g">
+ <img align="right" alt="Coding" width="450" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pkbgoupmgjv98otfuzjzz3olilr56muin6aigv8q&rid=giphy.gif&ct=g">
 <p >
  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
@@ -61,9 +60,9 @@
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/mui-%231572B6.svg?style=for-the-badge&logo=mui&logoColor=white" />&nbsp;&nbsp;
 <br/>
-
 </p>
 <hr>
+ 
 <h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My working tools..</h4>
 <p>
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />&nbsp;&nbsp;
