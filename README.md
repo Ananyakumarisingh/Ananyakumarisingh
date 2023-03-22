@@ -15,8 +15,7 @@
  🔭 I’m currently working on <a href="https://alpine-ebrand.netlify.app/html/login">E-commerce Website</a>
   <br><br>
  🌱 I’m currently learning Node.
-  <br>
- <!-- 👯 I’m looking to collaborate on ...<br><br> -->
+  <br><br>
  🤔 Check Out my <a href="https://drive.google.com/file/d/1Q8h7n7NZzntb8nKXSRGrFnjtI7HxaKXs/view">Resume</a>
   <br><br>
  👨‍💻  Know more about me <a href="https://ananyakumarisingh.github.io">Portfolio</a>
