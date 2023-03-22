@@ -82,26 +82,22 @@
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 </div>
 <br/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ananyakumarisingh&label=Profile%20views&color=0e75b6&style=flat" alt="Ananya" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ananyakumarisingh&label=Profile%20views&color=0e75b6&style=flat" alt="Ananyakumarisingh" /> </p>
  <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <h2 align="center">📊 My GitHub Statastics </h2>
 
-<!--  <table align ="center"> -->
  <div align ="center">
   <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=ananyakumarisingh&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Saurav Mukherjee" />
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ananyakumarisingh&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Saurav Mukherjee" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=ananyakumarisingh&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ananyakumarisingh" />
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ananyakumarisingh&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ananyakumarisingh" /></td>
   </tr>
   </div>
  
-<!-- </table> -->
-
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ananyakumarisingh&theme=dark" alt="Ananya" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ananyakumarisingh&theme=dark" alt="Ananyakumarisingh" /></p>
   </div>
 </div>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
  <h2> ✍️ Random Dev Quote </h2>
  <img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical'/> 
-
 </div>
