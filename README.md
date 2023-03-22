@@ -14,7 +14,7 @@
   
  🔭 I’m currently working on <a href="https://alpine-ebrand.netlify.app/html/login">E-commerce Website</a>
   <br><br>
- 🌱 I’m currently learning *Node*.
+ 🌱 I’m currently learning **Node**.
   <br><br>
  🤔 Check Out my <a href="https://drive.google.com/file/d/1Q8h7n7NZzntb8nKXSRGrFnjtI7HxaKXs/view">Resume</a>
   <br><br>
