@@ -16,8 +16,7 @@
   <br><br>
  🌱 I’m currently learning Node.
   <br><br>
- <!-- 👯 I’m looking to collaborate on ...
-<br><br> -->
+ <!-- 👯 I’m looking to collaborate on ...<br><br> -->
  🤔 Check Out my <a href="https://drive.google.com/file/d/1Q8h7n7NZzntb8nKXSRGrFnjtI7HxaKXs/view">Resume</a>
   <br><br>
  👨‍💻  Know more about me <a href="https://ananyakumarisingh.github.io">Portfolio</a>
@@ -32,6 +31,7 @@
   
 <h1 align="center">Let's Get Connected</h1>
 <div align="center">
+ <a  href="https://www.linkedin.com/in/ananya-kumari-singh-b06564248/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a> -->
 <a href="mailto:ananyakumarisingh77@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </div>
@@ -79,13 +79,12 @@
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="prettier" />&nbsp;&nbsp;
 </p>
-<hr>
-</div>
 <br/>
+<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
+</div>
 <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ananyakumarisingh&label=Profile%20views&color=0e75b6&style=flat" alt="Ananya" /> </p>
  <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
- 
 <h2 align="center">📊 My GitHub Statastics </h2>
 
 <!--  <table align ="center"> -->
