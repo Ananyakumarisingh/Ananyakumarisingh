@@ -8,9 +8,9 @@
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
   
 <div>
- <img align="right" alt="Coder Image Gif" width="400" src="https://camo.githubusercontent.com/5a249fff657eb22fb372ea50a8553b59551fd78ea5df602fc08e3ec1e8e95bb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313935313138322f73637265656e73686f74732f343536303832332f383030783630302e676966">
   
 <h2 align="center">💫  About Me </h2>
+  <img align="right" alt="Coder Image Gif" width="400" src="https://camo.githubusercontent.com/5a249fff657eb22fb372ea50a8553b59551fd78ea5df602fc08e3ec1e8e95bb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313935313138322f73637265656e73686f74732f343536303832332f383030783630302e676966">
   
  🔭 I’m currently working on <a href="https://alpine-ebrand.netlify.app/html/login">E-commerce Website</a>
   <br><br>
