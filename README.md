@@ -17,7 +17,7 @@
   <br><br>
  🤔 Check Out my <a href="https://drive.google.com/file/d/1Q8h7n7NZzntb8nKXSRGrFnjtI7HxaKXs/view">Resume</a>
   <br><br>
- 👨‍💻  Know more about me <a href="https://ananyakumarisingh.github.io">Portfolio</a>
+ 👨‍💻  Know more about me <a href="https://ananyakumarisingh.github.io/">Portfolio</a>
   <br><br>
  😄 All of my projects are available at <a href="https://github.com/ananyakumarisingh">My Github Repositories</a>
   <br><br>
