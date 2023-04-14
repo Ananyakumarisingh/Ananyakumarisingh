@@ -99,7 +99,13 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ananyakumarisingh&theme=dark" alt="Ananyakumarisingh" /></p>
   </div>
 </div>
-<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
- <h2> ✍️ Random Dev Quote </h2>
- <img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical'/> 
-</div>
+### ✍️ SHOUT with your code
+
+<img align="left" alt="Git" width="350px" style="padding-right:10px;" src="https://quotefancy.com/media/wallpaper/3840x2160/1700728-Linus-Torvalds-Quote-Talk-is-cheap-Show-me-the-code.jpg" />
+
+<br/>
+
+### ⚡ This line make me always craving
+
+<h1>while(!(succeed = try() ) );</h1>
+
