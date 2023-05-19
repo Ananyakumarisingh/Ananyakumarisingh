@@ -20,7 +20,7 @@
   <br><br>
  👨‍💻  Know more about me <a href="https://ananyakumarisingh.github.io/">Portfolio</a>
   <br><br>
- 😄 All of my projects are available at <a href="https://github.com/ananyakumarisingh">My Github Repositories</a>
+ 😄 All of my projects are available at <a href="https://github.com/Ananyakumarisingh?tab=repositories">My Github Repositories</a>
   <br><br>
  💬 Ask me about **HTML, CSS, JavaScript, SQL, Node.js**
   <br><br>
