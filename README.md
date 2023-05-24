@@ -59,7 +59,12 @@
 <br/>
 <img src="https://img.shields.io/badge/javascript%20-%23F7DF1.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SQL-4EA94B?style=for-the-badge&logo=Mongoose&logoColor=white" align="center" alt="Mongoose"/>
 <!-- <img src="https://img.shields.io/badge/mui-%231572B6.svg?style=for-the-badge&logo=mui&logoColor=white" />&nbsp;&nbsp; -->
+ <br/>
+ <img src="https://img.shields.io/badge/Mongoose-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="Mongoose"/>
+  <img src="https://img.shields.io/badge/rest api-%23323330.svg?style=for-the-badge&logo=express&logoColor=white" align="center" alt="rest api"/>
+<img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' align='center' alt='typescript' />
 <br/>
 </p>
 <hr>
