@@ -22,7 +22,7 @@
   <br><br>
  😄 All of my projects are available at <a href="https://github.com/Ananyakumarisingh?tab=repositories">My Github Repositories</a>
   <br><br>
- 💬 Ask me about **HTML, CSS, JavaScript, SQL, Node.js**
+ 💬 Ask me about **HTML, CSS, JavaScript, SQL, Node.js, React**
   <br><br>
  ⚡ How to reach me ananyakumarisingh77@gmail.com
   
