@@ -3,8 +3,8 @@
 <h2 align="center">Hi 👋, I am Ananya.</h2>
   
 <hr>
-  <h2 align="center">A passionate Full Stack Node Developer</h2>
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I+am+Ananya.;I+am+a+Full+Stack+Node+Developer.;Interested+in+working+with+Team.;Curious+to+learn+new+things+!" alt="Typing SVG" /></a></div>
+  <h2 align="center">A passionate Full Stack Developer</h2>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I+am+Ananya.;I+am+a+Full+Stack+Developer.;Interested+in+working+with+Team.;Curious+to+learn+new+things+!" alt="Typing SVG" /></a></div>
   
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
   
@@ -14,7 +14,7 @@
   
  🔭 I’m currently working on <a href="https://github.com/Ananyakumarisingh/ChatApp">QuickChat</a>
   <br><br>
- 🌱 I’m currently learning **Node.js**.
+ 🌱 I’m currently learning **React.js**.
   <br><br>
  🤔 Check Out my <a href="https://drive.google.com/file/d/1Q8h7n7NZzntb8nKXSRGrFnjtI7HxaKXs/view">Resume</a>
   <br><br>
